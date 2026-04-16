@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Cyclistic Ride Share Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🔗 Interactive Tableau Dashboard
 
